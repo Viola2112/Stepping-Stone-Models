@@ -1,2 +1,2 @@
 # Stepping-Stone-Models
-Implements the Stepping Stone Model. Uses a graphics module made by John Zelle. 
+Implements the Stepping Stone Model (see https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1210594/). Uses a graphics module made by John Zelle. The program opens several Stepping Stone Models but does not immediately execute all of them upon running; instead, it is intended to be run in IDLE or a similar IDE in which the user can execute function calls in the Shell. The relevant functions are towards the end of the module after all of the classes. When using this software, put the graphics package in a place where Python can see it, and put the other files in a place where it is convenient to run them.
